@@ -1,4 +1,4 @@
-# Flask REST API Sentiment Classifier
+# YOLO face detection and CV2 Tracker
 
 ## File Structure
  - cfg : contains config file
